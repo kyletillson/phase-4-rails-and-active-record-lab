@@ -1,0 +1,1 @@
+Student.create(first_name: "Dwayne", last_name: "Jhonson", grade: 12)
